@@ -1,0 +1,6 @@
+file = open("sehirler.txt", "w+")
+file.write("Elazığ\n")
+file.write("Ankara\n")
+file.write("İstanbul\n")
+file.write("Konya\n")
+file.close()
